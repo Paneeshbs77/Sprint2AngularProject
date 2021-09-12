@@ -1,0 +1,37 @@
+.maindiv{
+    border:2px solid rgba(0, 110, 255, 0.39);
+    background-color: rgba(139, 185, 214, 0.425);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 25px;
+    width:100%;
+    float:left;
+    text-align: center;
+}
+/* 
+.subdiv {
+    border-style:ridge;
+    padding: inherit 20px;
+    width:600px;
+    float:left;
+    color: brown;
+} */
+
+.form-group
+{
+    float: right;
+}
+
+h3
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+tr:nth-child(odd){background-color: rgb(252, 41, 157)}
+
+button[type=delete]:hover 
+{
+   
+    cursor: pointer;
+  }

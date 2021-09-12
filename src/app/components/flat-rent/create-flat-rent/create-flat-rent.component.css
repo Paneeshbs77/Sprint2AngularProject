@@ -1,0 +1,39 @@
+
+.newFlatRent
+{
+    border:2px solid rgba(0, 110, 255, 0.39);
+    background-color: rgba(139, 185, 214, 0.425);
+    border-radius: 10px;
+    margin-top: 25px;
+    width:100%;
+    float:left;
+}
+
+
+input.ng-touched.ng-invalid
+{
+    border: 2px red;
+    border-style:solid;
+}
+
+
+h3
+{
+    color: navy;
+    margin-top: 25px;
+}
+
+
+.form-group
+{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button[type=submit]:hover 
+{
+    background-color:blue;
+    cursor: pointer;
+  }
